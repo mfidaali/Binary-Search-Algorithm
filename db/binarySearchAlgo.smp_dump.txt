@@ -1,0 +1,6 @@
+
+State Machine - |binarySearchAlgo|curr_state
+Name curr_state.FINISH curr_state.SEARCH curr_state.IDLE 
+curr_state.IDLE 0 0 0 
+curr_state.SEARCH 0 1 1 
+curr_state.FINISH 1 0 1 
